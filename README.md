@@ -13,23 +13,27 @@ This project focused on enhancing document management, process digitization, and
 - <b>SQL</b>
 - <b>HTML & CSS</b>
 - <b>JavaScript</b>
+- <b>DAX (Data Analysis Expressions)</b>
+- <b>M Language (Power Query Formula Language) </b>
 
 <h2>Utilities / Frameworks / Libraries</h2>
 
-- <b>.NET (ASP.NET Core)</b> 
-- <b>Blazor</b>
-- <b>Entity Framework Core </b>
-- <b>Dependency Injection (DI)</b>
-- <b>NuGet Packages</b>
-- <b>Authentication & Authorization libraries </b>
-- <b>JavaScript Libraries</b>
+- <b>SharePoint On Prem</b> 
+- <b>Plumsail Forms</b>
+- <b>SharePoint Designer</b>
+- <b>Power BI Desktop</b> 
+- <b>Power Query Editor</b>
+- <b>SharePoint Lists</b>
+
 
 <h2>Environments Used </h2>
 
 - <b>Visual Studio / Visual Studio Code</b> 
-- <b>.NET SDK & Runtime</b>
-- <b>SQL Server </b>
-- <b>IIS (Deployment)</b>
+- <b>Plumsail Form Designer</b>
+- <b>SharePoint On Premise Server</b>
+- <b>Power BI Desktop</b> 
+- <b>Power Query Editor</b>
+- <b>SQL Server Database</b>
 
 <h2>Program walk-through:</h2>
 
