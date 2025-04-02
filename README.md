@@ -39,9 +39,20 @@ This project focused on enhancing document management, process digitization, and
 
 <p align="center">
 Input Form: <br/>
-<img src="https://github.com/SaliKangwa/Freight-Management/blob/main/freight%20form%201.png" height="80%" width="80%" alt="Input Form"/>
+<img src="https://github.com/SaliKangwa/Digital-Transformation-Programme/blob/main/commercial intranet 2.png" height="80%" width="80%" alt="Input Form"/>
 <br />
 <br />
 
 
 
+<p align="center">
+Input Form: <br/>
+<img src="https://github.com/SaliKangwa/Digital-Transformation-Programme/blob/main/engineering intranet.png" height="80%" width="80%" alt="Input Form"/>
+<br />
+<br />
+
+<p align="center">
+Input Form: <br/>
+<img src="https://github.com/SaliKangwa/Digital-Transformation-Programme/blob/main/engineering action tracker 2.png" height="80%" width="80%" alt="Input Form"/>
+<br />
+<br />
