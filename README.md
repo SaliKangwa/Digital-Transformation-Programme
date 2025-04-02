@@ -7,19 +7,37 @@ This project focused on enhancing document management, process digitization, and
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Languages</h2>
 
 - <b>C#</b> 
 - <b>SQL</b>
+- <b>HTML & CSS</b>
+- <b>JavaScript</b>
+
+<h2>Utilities / Frameworks / Libraries</h2>
+
+- <b>.NET (ASP.NET Core)</b> 
+- <b>Blazor</b>
+- <b>Entity Framework Core </b>
+- <b>Dependency Injection (DI)</b>
+- <b>NuGet Packages</b>
+- <b>Authentication & Authorization libraries </b>
+- <b>JavaScript Libraries</b>
 
 <h2>Environments Used </h2>
 
-- <b></b> 
+- <b>Visual Studio / Visual Studio Code</b> 
+- <b>.NET SDK & Runtime</b>
+- <b>SQL Server </b>
+- <b>IIS (Deployment)</b>
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://imgur.com/a/X5ho8nJ" height="80%" width="80%" alt="Input Form"/>
+Input Form: <br/>
+<img src="https://github.com/SaliKangwa/Freight-Management/blob/main/freight%20form%201.png" height="80%" width="80%" alt="Input Form"/>
 <br />
 <br />
+
+
+
